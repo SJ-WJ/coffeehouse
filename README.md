@@ -17,6 +17,18 @@ Coffee House is a mock coffee shop ordering web app submitted as the midterm pro
 3. After choosing your items, input your name and phone number and place the order. Via Twilio, you will immediately receive an SMS notifying you that your order has been placed. You will be brought to the order summary page displaying the order details. You can then press the return to home button to place another order if you wish.
 4. Make your way to the /admin (http://locahost:8080/admin) page to view all the orders that have been placed by previous customers. Once the admin confirms the order, the customer receives another SMS to notify them that their order is ready for pickup.
 
+## Project Visuals
+
+Coffee House Main Page
+!["Coffee House Main Page"](https://github.com/SJ-WJ/coffeehouse/blob/master/docs/coffeehouse-mainpage.png)
+
+Coffee House Products Page
+!["Coffee House Products Page"](https://github.com/SJ-WJ/coffeehouse/blob/master/docs/coffeehouse-productspage.png)
+
+Coffee House Summary of Order Page
+!["Coffee House Summary of Order Page"](https://github.com/SJ-WJ/coffeehouse/blob/master/docs/coffeehouse-summarypage.png)
+
+
 ## Getting Started
 
 1. Install all required dependencies: `npm i`
@@ -42,4 +54,3 @@ Coffee House is a mock coffee shop ordering web app submitted as the midterm pro
 - Twilio 3.80.0 or above
 - Body Parser 1.15.2 or above
 - Express 4.17.1 or above
-
